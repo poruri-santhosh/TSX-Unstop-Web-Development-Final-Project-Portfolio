@@ -14,11 +14,6 @@ This is a simple and responsive **Portfolio Web Application** built using **HTML
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot](assets/profile.jpg)  
-*Replace this with a real screenshot of your website if you want.*
-
 ---
 
 ## 🚀 Technologies Used
